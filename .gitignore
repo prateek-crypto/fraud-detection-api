@@ -33,5 +33,4 @@ reports/*.html
 !reports/README.txt
 data/*.csv
 !data/README.txt
-models/*.pkl
 !models/__init__.py
